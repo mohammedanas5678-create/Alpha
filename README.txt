@@ -7,7 +7,7 @@ Included updates:
 - Reusable saved Chief Complaints and Assessment/Diagnosis text.
 - A4 portrait prescription printing.
 - A5 portrait bill / invoice printing.
-- Separate bill categories: Medicine fee, Procedure fee, Observation fee, House call fee.
+- Separate bill categories: Consultation fee, Medicine fee, Procedure fee, Observation fee, House call fee, Other fee.
 - Existing patient, consultation, appointment, billing, reports, medication/lab presets and encrypted local backup workflows retained.
 
 SETUP
